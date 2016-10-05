@@ -1,5 +1,6 @@
-/* package com.ezricloud;
+package com.ezricloud;
 
+/*
 class BuildStamp {
    Date ts;
 
